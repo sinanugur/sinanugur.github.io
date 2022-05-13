@@ -17,20 +17,20 @@ Education
 
 Work experience
 ======
-__* Department of Pathology, University of Oslo, Oslo, Norway — Researcher__
+__Department of Pathology, University of Oslo, Oslo, Norway — Researcher__  
 Mar 2022 - Present, Research Advisor Oct 2020 - Present
- * Analysis of gut macrophages
- * Single cell RNA sequencing
-Spatial transcriptomics analysis of human colon samples
-Cancer Registry of Norway, Oslo, Norway — Postdoctoral Scientist
+   * Analysis of gut macrophages
+   * Single cell RNA sequencing
+   * Spatial transcriptomics analysis of human colon samples
+___Cancer Registry of Norway, Oslo, Norway — Postdoctoral Scientist___
 Oct 2016 - Oct 2020, Research Advisor Oct 2020 - Present
-Analysis of serum RNA profiles using RNA sequencing
-Investigating prediagnostic serum samples for cancer footprints
-Prediction of carcinogenesis using machine learning models
-Developing bioinformatics pipelines using Snakemake
-Variant calling in HPV genomes
-Building AI models for miRNA prediction
-Prediction of RNA-RNA interactions
+   * Analysis of serum RNA profiles using RNA sequencing
+   * Investigating prediagnostic serum samples for cancer footprints
+   * Prediction of carcinogenesis using machine learning models
+   * Developing bioinformatics pipelines using Snakemake
+   * Variant calling in HPV genomes
+   * Building AI models for miRNA prediction
+   * Prediction of RNA-RNA interactions
 University of Canterbury, Christchurch, New Zealand — PhD candidate Nov 2012 - Aug 2016
 Prokaryotic genome annotation
 Non-coding RNA annotation
