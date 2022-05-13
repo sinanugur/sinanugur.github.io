@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Department of Pathology, University of Oslo, Oslo, Norway — Researcher
+__* Department of Pathology, University of Oslo, Oslo, Norway — Researcher__
 Mar 2022 - Present, Research Advisor Oct 2020 - Present
  * Analysis of gut macrophages
  * Single cell RNA sequencing
