@@ -11,21 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University of Canterbury, Christchurch, New Zealand — PhD in Bioinformatics/Biotechnology Nov 2012 - Aug 2016
+* METU, Ankara — MSc in Bioinformatics Sep 2009 - Aug 2012
+* METU, Ankara — BS in Physics Sep 2001 - Aug 2005
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Department of Pathology, University of Oslo, Oslo, Norway — Researcher
+Mar 2022 - Present, Research Advisor Oct 2020 - Present
+ * Analysis of gut macrophages
+ * Single cell RNA sequencing
+Spatial transcriptomics analysis of human colon samples
+Cancer Registry of Norway, Oslo, Norway — Postdoctoral Scientist
+Oct 2016 - Oct 2020, Research Advisor Oct 2020 - Present
+Analysis of serum RNA profiles using RNA sequencing
+Investigating prediagnostic serum samples for cancer footprints
+Prediction of carcinogenesis using machine learning models
+Developing bioinformatics pipelines using Snakemake
+Variant calling in HPV genomes
+Building AI models for miRNA prediction
+Prediction of RNA-RNA interactions
+University of Canterbury, Christchurch, New Zealand — PhD candidate Nov 2012 - Aug 2016
+Prokaryotic genome annotation
+Non-coding RNA annotation
+DNA (Illumina, Pacbio, Nanopore) and RNA sequencing (Illumina)
+Prediction and benchmarking of RNA-RNA interactions
+Investigation of prokaryotic RNA interactions
+Building parallel programming interfaces
+Modelling protein production in prokaryotes
+Avoidance hypothesis
+Department of Chemistry, METU, Ankara, TR — IT manager
+Aug 2006 - Oct 2012
+Network security
+Database management
+Web servers maintenance
+Linux server deployment
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
