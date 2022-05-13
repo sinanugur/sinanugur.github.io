@@ -33,7 +33,7 @@ Oct 2016 - Oct 2020, Research Advisor Oct 2020 - Present
    * Building AI models for miRNA prediction
    * Prediction of RNA-RNA interactions
   
-__University of Canterbury, Christchurch, New Zealand — PhD candidate__
+__University of Canterbury, Christchurch, New Zealand — PhD candidate__  
 Nov 2012 - Aug 2016
   * Prokaryotic genome annotation
   * Non-coding RNA annotation
@@ -44,10 +44,9 @@ Nov 2012 - Aug 2016
   * Modelling protein production in prokaryotes
   * Avoidance hypothesis  
 
-__Department of Chemistry, METU, Ankara, TR — IT manager__
+__Department of Chemistry, METU, Ankara, TR — IT manager__  
 Aug 2006 - Oct 2012
   * Network security
   * Database management
   * Web servers maintenance
   * Linux server deployment
-
