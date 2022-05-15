@@ -245,6 +245,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-github-contributions
 
 
 # Archives
