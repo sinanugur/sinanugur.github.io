@@ -282,3 +282,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+githubcontributions:
+  username: sinanugur # Github username
+  page_limit: 3 # Number of pages of data to grab from Github
+  cache: 300 # Number of seconds to cache the data file
