@@ -25,7 +25,7 @@ Skills
   <ul>
   {% for contribution in site.data.github-contributions limit:10 %}
     <li>
-      <a href="{{ contribution.html_url }}">{{ contribution.title }}</a>
+      <img src="http://ghchart.rshah.org/sinanugur" alt="sinanugur's Github chart" />
     </li>
   {% endfor %}
   </ul> 
