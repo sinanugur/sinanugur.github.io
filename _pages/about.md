@@ -23,10 +23,8 @@ Skills
 <div id="contributions" class="contributions">
   <h3>Some recent open source contributions I've made:</h3>
   <ul>
-  {% for contribution in site.data.github-contributions limit:10 %}
     <li>
       <img src="http://ghchart.rshah.org/sinanugur" alt="sinanugur's Github chart" />
     </li>
-  {% endfor %}
   </ul> 
 </div>
