@@ -25,7 +25,7 @@ Mar 2022 - Present
 
 __Cancer Registry of Norway, Oslo, Norway — Postdoctoral Scientist__  
 Oct 2016 - Oct 2020, Research Advisor Oct 2020 - Present
-   * Analysis of serum RNA profiles using RNA sequencing
+   * Analysis of serum RNA profiles using (bulk) RNA sequencing
    * Investigating prediagnostic serum samples for cancer footprints
    * Prediction of carcinogenesis using machine learning models
    * Developing bioinformatics pipelines using Snakemake
