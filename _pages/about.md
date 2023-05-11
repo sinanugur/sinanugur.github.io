@@ -15,10 +15,10 @@ My research interests include spatial transcriptomics, RNA sequencing, early det
 
 
 Research Interests  
-♦ Non-Coding RNAs ♦ RNA biology ♦ RNA-RNA interactions ♦ Spatial transcriptomics of gut ♦ Reproducible bioinformatics pipelines ♦ Early prediction of cancer ♦ Molecular oncology ♦ RNAs in prokaryotes ♦ RNA sequencing (transcriptomics) ♦ DNA sequencing ♦ Modelling and machine learning (ML) methods ♦ Deep learning
+♦Biostatistics ♦Molecular epidemiology ♦ Non-Coding RNAs ♦ RNA biology ♦ RNA-RNA interactions ♦ Spatial transcriptomics of gut ♦ Reproducible bioinformatics pipelines ♦ Early prediction of cancer ♦ Molecular oncology ♦ RNAs in prokaryotes ♦ RNA sequencing (transcriptomics) ♦ DNA sequencing ♦ Modelling and machine learning (ML) methods ♦ Deep learning
 
 Skills  
-♦ R (tidyverse syntax, ggplot, caret, Rmarkdown, shiny apps, functional programming, parallelization) ♦ Python (biopython, numpy, scipy, Snakemake, parallel python, pandas, flask) ♦ Linux (BASH,shell scripting, HPC systems) ♦ Data Science (Keras framework, h2o, machine learning)  
+♦ R (tidyverse syntax, ggplot, caret, Rmarkdown, shiny apps, functional programming, parallelization) ♦ Python (biopython, numpy, scipy, Snakemake, parallel python, pandas, flask) ♦ Linux (BASH,shell scripting, HPC systems) ♦ Data Science (Keras framework, h2o, machine learning) ♦ Biostatistics (survival models, modelling)
 
 <div id="contributions" class="contributions">
   <h3>Some recent open source contributions I've made:</h3>
