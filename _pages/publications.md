@@ -13,6 +13,9 @@ author_profile: true
 
 Selected
 ======
+
+Sinan Uğur Umu, Håvard Trondsen , Vanessa M. Paynter , Tilo Buschmann , Trine B. Rounge, Kevin J. Peterson and, Bastian Fromm, Accurate microRNA annotation of animal genomes using trained covariance models of curated microRNA complements in MirMachine (2023), Cell Genomics
+
 Sinan Uğur Umu, Hilde Langseth,Verena Zuber, Åslaug Helland, Robert Lyle and Trine B. Rounge, Serum RNAs can predict lung cancer up to 10 years prior to diagnosis (2022), eLife
 
 Sinan Uğur Umu, Hilde Langseth, Andreas Keller, Eckart Meese, Åslaug Helland, Robert Lyle  and Trine B. Rounge (2019), A 10 year prediagnostic followup study shows that serum RNA signals are highly dynamic in lung carcinogenesis, Molecular Oncology
