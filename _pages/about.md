@@ -14,10 +14,11 @@ My research interests include spatial transcriptomics, RNA sequencing, early det
 
 
 The tools that I developed and published:
-| Tool | Download  | Purpose |
-|----------|-----------|---|
-|MirMachine|[![Anaconda-Server Badge](https://anaconda.org/bioconda/mirmachine/badges/downloads.svg)](https://anaconda.org/bioconda/mirmachine)| microRNA homology search tool using machine learning|
-|Cellsnake |[![Anaconda-Server Badge](https://anaconda.org/bioconda/cellsnake/badges/downloads.svg)](https://anaconda.org/bioconda/cellsnake)|single-cell analysis tool for everyone|
+
+| Tool | Download  | Purpose |  
+|----------|-----------|-----|  
+|MirMachine|[![Anaconda-Server Badge](https://anaconda.org/bioconda/mirmachine/badges/downloads.svg)](https://anaconda.org/bioconda/mirmachine)| microRNA homology search tool using machine learning|  
+|Cellsnake |[![Anaconda-Server Badge](https://anaconda.org/bioconda/cellsnake/badges/downloads.svg)](https://anaconda.org/bioconda/cellsnake)|single-cell analysis tool for everyone |  
 
 
 **Research Interests**
