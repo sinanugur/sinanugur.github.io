@@ -22,9 +22,10 @@ The tools that I developed and published:
 
 
 **Research Interests**
-* RNA biology, especially non-coding RNAs such as microRNAs, tRNA-derived molecules
 * Modelling and early prediction models in the context of personalized medicine
 * Molecular oncology and cancer
+* RNA biology, especially non-coding RNAs such as microRNAs, tRNA-derived molecules
+* RNA-RNA interactions
 * Biostatistics and molecular epidemiology
 * NGS (DNA and RNA sequencing), transcriptomics from bulk RNA sequencing to spatial transcriptomics
 * Reproducible bioinformatics pipelines, mostly using Snakemake, shell scripts, Python and R programming
