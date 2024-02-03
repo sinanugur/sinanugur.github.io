@@ -14,21 +14,24 @@ author_profile: true
 Selected
 ======
 
-Sinan Uğur Umu, Håvard Trondsen , Vanessa M. Paynter , Tilo Buschmann , Trine B. Rounge, Kevin J. Peterson and, Bastian Fromm, Accurate microRNA annotation of animal genomes using trained covariance models of curated microRNA complements in MirMachine (2023), Cell Genomics
+Sinan U. Umu et al. (2023), cellsnake: a user-friendly tool for single-cell RNA sequencing analysis,  __GigaScience__
+Sinan U. Umu et al. (2023), Accurate microRNA annotation of animal genomes using trained covariance models of curated microRNA complements in MirMachine, __Cell Genomics__
+Sinan U. Umu et al. (2022), Serum RNAs can predict lung cancer up to 10 years prior to diagnosis __eLife__
+Umu, S. U. et al.  (2018). A comprehensive profile of circulating RNAs in human serum. __RNA Biology__ (highly cited)
+Umu, Sinan U. and Gardner, P. P. (2017). A comprehensive benchmark of RNA-RNA interaction prediction tools for all domains of life. __Bioinformatics__ (highly cited)
+Umu, Sinan U. et al., (2016). Avoidance of stochastic RNA interactions can be harnessed to control protein expression levels in bacteria and archaea. __eLife__ (On eLife web cover)
 
-Sinan Uğur Umu, Hilde Langseth,Verena Zuber, Åslaug Helland, Robert Lyle and Trine B. Rounge, Serum RNAs can predict lung cancer up to 10 years prior to diagnosis (2022), eLife
+Selected talks
+=======
+Sinan U. Umu, MirMachine: accurate microRNA annotation of animal genomes using trained covariance models, Norwegian Biodiversity & Genomics Conference, February 2023, Oslo, Norway (Selected talk)
+Sinan U. Umu, Spatial transcriptomics analysis of human colon; results, lessons and challenges, Genomics Open Day, 10x genomics, December 2022, Oslo, Norway (Invited speaker)
+Sinan Uğur Umu et al., Accurate microRNA annotation using covariance models based on manually curated databases in MirMachine, Biodiversity Genomics 2020, Cambridge, UK (Selected talk)
+Robert Lyle, Sinan Uğur Umu et al. Prediagnostic serum RNA levels are highly dynamic in lung cancer. ASHG 2019, Houston, USA  (Selected talk)
+Sinan Uğur Umu et al., Avoidance of crosstalk RNA interactions in prokaryotes, EMBO/EMBL Symposium The Non-Coding Genome 2017, Heidelberg, Germany, September 2017 (Selected Talk, travel grant)
 
-Sinan Uğur Umu, Hilde Langseth, Andreas Keller, Eckart Meese, Åslaug Helland, Robert Lyle  and Trine B. Rounge (2019), A 10 year prediagnostic followup study shows that serum RNA signals are highly dynamic in lung carcinogenesis, Molecular Oncology
-
-Umu, S. U., Langseth, H., Bucher-Johannessen, C., Fromm, B., Keller, A., Meese, E. and  Rounge, T. B. (2018). A comprehensive profile of circulating RNAs in human serum. RNA Biology, 15(2). 
-
-Umu, Sinan Ugur and Gardner, P. P. (2017). A comprehensive benchmark of RNA-RNA interaction prediction tools for all domains of life. Bioinformatics, btw728. 
-
-Umu, Sinan Ugur, Poole, A. M., Dobson, R. C., & Gardner, P. P. (2016). Avoidance of stochastic RNA interactions can be harnessed to control protein expression levels in bacteria and archaea. eLife
-
-Others
+Other publications
 ======
-Gardner PP, Paterson JM, McGimpsey S, Ashari-Ghomi F, Umu SU, Pawlik A, Gavryushkin A, Black MA. Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software. Genome Biol. 2022 Feb 16;23(1):56. doi: 10.1186/s13059-022-02625-x. PMID: 35172880; PMCID: PMC8851831.
+Gardner PP, Paterson JM, McGimpsey S, Ashari-Ghomi F, Umu SU, Pawlik A, Gavryushkin A, Black MA. Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software. Genome Biology. 2022 Feb 16;23(1):56. doi: 10.1186/s13059-022-02625-x. PMID: 35172880; PMCID: PMC8851831.
 
 Fromm B, Høye E, Domanska D, Zhong X, Aparicio-Puerta E, Ovchinnikov V, Umu SU, Chabot PJ, Kang W, Aslanzadeh M, Tarbier M, Mármol-Sánchez E, Urgese G, Johansen M, Hovig E, Hackenberg M, Friedländer MR, Peterson KJ. MirGeneDB 2.1: toward a complete sampling of all major animal phyla. Nucleic Acids Res. 2022 Jan 7;50(D1):D204-D210. doi: 10.1093/nar/gkab1101. PMID: 34850127; PMCID: PMC8728216.
 
