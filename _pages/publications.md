@@ -14,20 +14,20 @@ author_profile: true
 Selected
 ======
 
-Sinan U. Umu et al. (2023), cellsnake: a user-friendly tool for single-cell RNA sequencing analysis,  __GigaScience__
-Sinan U. Umu et al. (2023), Accurate microRNA annotation of animal genomes using trained covariance models of curated microRNA complements in MirMachine, __Cell Genomics__
-Sinan U. Umu et al. (2022), Serum RNAs can predict lung cancer up to 10 years prior to diagnosis __eLife__
-Umu, S. U. et al.  (2018). A comprehensive profile of circulating RNAs in human serum. __RNA Biology__ (highly cited)
-Umu, Sinan U. and Gardner, P. P. (2017). A comprehensive benchmark of RNA-RNA interaction prediction tools for all domains of life. __Bioinformatics__ (highly cited)
-Umu, Sinan U. et al., (2016). Avoidance of stochastic RNA interactions can be harnessed to control protein expression levels in bacteria and archaea. __eLife__ (On eLife web cover)
+Sinan U. Umu et al. (2023), cellsnake: a user-friendly tool for single-cell RNA sequencing analysis,  __GigaScience__  
+Sinan U. Umu et al. (2023), Accurate microRNA annotation of animal genomes using trained covariance models of curated microRNA complements in MirMachine, __Cell Genomics__  
+Sinan U. Umu et al. (2022), Serum RNAs can predict lung cancer up to 10 years prior to diagnosis __eLife__  
+Umu, S. U. et al.  (2018). A comprehensive profile of circulating RNAs in human serum. __RNA Biology__ (highly cited)  
+Umu, Sinan U. and Gardner, P. P. (2017). A comprehensive benchmark of RNA-RNA interaction prediction tools for all domains of life. __Bioinformatics__ (highly cited)  
+Umu, Sinan U. et al., (2016). Avoidance of stochastic RNA interactions can be harnessed to control protein expression levels in bacteria and archaea. __eLife__ (On eLife web cover)  
 
 Selected talks
 =======
-Sinan U. Umu, MirMachine: accurate microRNA annotation of animal genomes using trained covariance models, Norwegian Biodiversity & Genomics Conference, February 2023, Oslo, Norway (Selected talk)
-Sinan U. Umu, Spatial transcriptomics analysis of human colon; results, lessons and challenges, Genomics Open Day, 10x genomics, December 2022, Oslo, Norway (Invited speaker)
-Sinan Uğur Umu et al., Accurate microRNA annotation using covariance models based on manually curated databases in MirMachine, Biodiversity Genomics 2020, Cambridge, UK (Selected talk)
-Robert Lyle, Sinan Uğur Umu et al. Prediagnostic serum RNA levels are highly dynamic in lung cancer. ASHG 2019, Houston, USA  (Selected talk)
-Sinan Uğur Umu et al., Avoidance of crosstalk RNA interactions in prokaryotes, EMBO/EMBL Symposium The Non-Coding Genome 2017, Heidelberg, Germany, September 2017 (Selected Talk, travel grant)
+Sinan U. Umu, MirMachine: accurate microRNA annotation of animal genomes using trained covariance models, Norwegian Biodiversity & Genomics Conference, February 2023, Oslo, Norway (Selected talk)  
+Sinan U. Umu, Spatial transcriptomics analysis of human colon; results, lessons and challenges, Genomics Open Day, 10x genomics, December 2022, Oslo, Norway (Invited speaker)  
+Sinan Uğur Umu et al., Accurate microRNA annotation using covariance models based on manually curated databases in MirMachine, Biodiversity Genomics 2020, Cambridge, UK (Selected talk)  
+Robert Lyle, Sinan Uğur Umu et al. Prediagnostic serum RNA levels are highly dynamic in lung cancer. ASHG 2019, Houston, USA  (Selected talk)  
+Sinan Uğur Umu et al., Avoidance of crosstalk RNA interactions in prokaryotes, EMBO/EMBL Symposium The Non-Coding Genome 2017, Heidelberg, Germany, September 2017 (Selected Talk, travel grant)  
 
 Other publications
 ======
