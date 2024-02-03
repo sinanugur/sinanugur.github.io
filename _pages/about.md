@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at the Department of Pathology, Institute of Clinical Medicine, University of Oslo, Norway.  
-
-My research interests include spatial transcriptomics, RNA sequencing, early detection of cancer and RNA-RNA interactions. I did my PhD (Biotechnology/Bioinformatics) at University of Canterbury, New Zealand. I was working on non-coding RNA interactions in prokaryotes. My PhD thesis focused on ncRNA-mRNA interactions in prokaryotic genomes (bacteria and archaea).  
-
+I am a senior bioinformatician/computational biologist/researcher with expertise in statistical methods, machine learning, modeling, and pipeline development. I have a proven track record of success in developing and applying bioinformatics to solve challenging problems in biology. My PhD thesis was selected as a case study for New Zealand eScience Infrastructure and published in eLife, receiving the Best Publication Award from my PhD institution. I have also developed various open-source bioinformatics software and workflows for biologists, downloaded by thousands. I am always eager to collaborate to solve challenging problems in biology, biostatistics, and bioinformatics.
 
 The tools that I developed and published:
 
