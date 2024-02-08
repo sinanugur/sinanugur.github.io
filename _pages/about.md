@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior bioinformatician/computational biologist/researcher with expertise in statistical methods, machine learning, modeling, and pipeline development. I have a proven track record of success in developing and applying bioinformatics to solve challenging problems in biology. My PhD thesis was selected as a case study for New Zealand eScience Infrastructure and published in eLife, receiving the Best Publication Award from my PhD institution. I have also developed various open-source bioinformatics software and workflows for biologists, downloaded by thousands. I am always eager to collaborate to solve challenging problems in biology, biostatistics, and bioinformatics.
+I am a senior bioinformatician and research scientist with expertise in statistical methods, machine learning, modeling, and pipeline development. I have a proven track record of success in developing and applying bioinformatics to solve challenging problems in biology. My PhD thesis was selected as a case study for New Zealand eScience Infrastructure and published in eLife, receiving the Best Publication Award from my PhD institution. I have also developed various open-source bioinformatics software and workflows for biologists, downloaded by thousands. I am always eager to collaborate to solve challenging problems in biology, biostatistics, and bioinformatics.
 
 The tools that I developed and published:
 
@@ -28,7 +28,7 @@ The tools that I developed and published:
 * Reproducible bioinformatics pipelines, mostly using Snakemake, shell scripts, Python and R programming
 
 **Skills**
-* R, I am quite capable in tidyverse syntax (ggplot, caret, Rmarkdown, shiny apps, functional programming, parallelization)
+* R, I am quite capable in tidyverse syntax (ggplot, caret, mlr3, Rmarkdown, shiny apps, functional programming, parallelization)
 * Machine learning and data analysis in R
 * Python (especially in bioinformatics context)
 * Snakemake (I develop pipelines and also teach Snakemake)
