@@ -8,7 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior bioinformatician and research scientist with expertise in statistical methods, machine learning, modeling, and pipeline development. I have a proven track record of success in developing and applying bioinformatics to solve challenging problems in biology. My PhD thesis was selected as a case study for New Zealand eScience Infrastructure and published in eLife, receiving the Best Publication Award from my PhD institution. I have also developed various open-source bioinformatics software and workflows for biologists, downloaded by thousands. I am always eager to collaborate to solve challenging problems in biology, biostatistics, and bioinformatics.
+I am a senior bioinformatics research scientist at Department of Pathology, Institute of Clinical Medicine, University of Oslo, Norway and working in the [Jahnsen lab](https://jahnsenlab.org/).
+
+- ⚡ I have been developing open-source bioinformatics tools downloaded by thousands including [MirMachine](https://github.com/sinanugur/MirMachine) and [cellsnake](https://github.com/sinanugur/cellsnake).
+
+- 🔭 My research interests include biostatistics, bioinformatics, molecular epidemiology, spatial transcriptomics, single-cell and bulk RNA sequencing, early detection of cancer using ML and AI, RNA biology of cancer and RNA-RNA interactions.
+  
+- 🔭 I also have bioinformatics pipelines written in Snakemake (also in Python and R) like a small RNA sequencing pipeline, [sncRNA-workflow](https://github.com/sinanugur/sncRNA-workflow), or a WGS pipeline for HPV variant detection ([TaME-seq](https://github.com/sinanugur/TaME-seq))
+  
+- 🌱 I completed my doctoral studies in the fields of Biotechnology and Bioinformatics at the University of Canterbury in New Zealand. My research concentrated on the non-coding RNAs in prokaryotic organisms. The primary emphasis of my dissertation was on the interactions between non-coding RNAs and messenger RNAs within the genomes of bacteria and archaea.
+
+![](https://komarev.com/ghpvc/?username=sinanugur)
+
+![](https://img.shields.io/twitter/follow/sinanugur?style=social)
 
 The tools that I developed and published:
 
