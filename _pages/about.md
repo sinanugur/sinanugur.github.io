@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+<p align="center">
+  <img src="../images/cellsnake-logo.png" alt="Logo 1" width="100" style="margin-right: 20px;">
+  <img src="../images/easydecon-logo.png" alt="Logo 2" width="100" style="margin-right: 20px;">
+  <img src="../images/mirmachine-logo.png" alt="Logo 3" width="100">
+</p>
+
+
 I am a senior bioinformatics research scientist at Department of Pathology, Institute of Clinical Medicine, University of Oslo, Norway and working in the [Jahnsen lab](https://jahnsenlab.org/).
 
 - ⚡ I have been developing open-source bioinformatics tools downloaded by thousands including [MirMachine](https://github.com/sinanugur/MirMachine) and [cellsnake](https://github.com/sinanugur/cellsnake).
